@@ -16,6 +16,8 @@ A basic calculator application built using Kotlin and Jetpack Compose for Androi
 
 ## Demo
 
+https://github.com/user-attachments/assets/921bb2b5-c818-4db8-83c0-2027b026857d
+
 ## How to Run
 
 1. Clone this repository
